@@ -69,7 +69,6 @@ def change_password():
                 exit()
 
 
-# основной код программы
 confirm_action()
 
 name = find_user(user_1['данные'])
